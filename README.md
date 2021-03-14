@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://github.com/ti-dragonns/Arduino-Server-Management-System">
-    <img src="images/example_demo.jpg" alt="example_demo" width="800" height="800">
+    <img src="images/example_demo.jpg" alt="example_demo" width="720" height="540">
   </a>
 </p>
 
