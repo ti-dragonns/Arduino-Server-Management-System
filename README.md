@@ -63,39 +63,26 @@ It's a easy and simple project using only a few lines of code.
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+I've done this to attend my needs, so its quite simple and straightforward
 
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
 
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
+- 1x Arduino Uno
+- 1x Arduino Proto Shield
+- 1x 1602 LCD with i2c controller
+- 1x buzzer active module 5V
+- 1x rotary encoder module
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
+1. Download the Arduino sketch [here](https://github.com/ti-dragonns/Arduino-Server-Management-System/blob/main/ASMS%20v1.0.ino)
 
 <!-- CONTACT -->
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@ti_dragonns](https://twitter.com/your_username) - joaomatos26@icloud.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/ti-dragonns/Arduino-Server-Management-System](https://github.com/ti-dragonns/Arduino-Server-Management-System)
