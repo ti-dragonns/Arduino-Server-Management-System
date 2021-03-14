@@ -39,9 +39,11 @@
 
 ## About The Project
 
-<a href="https://github.com/ti-dragonns/Arduino-Server-Management-System">
-    <img src="images/example_demo.jpg" alt="example_demo" width="720" height="540">
+<p align="center">
+  <a href="https://github.com/ti-dragonns/Arduino-Server-Management-System">
+    <img src="images/example_demo.jpg" alt="example_demo" width="800" height="800">
   </a>
+</p>
 
 I decided to build my own 1U Server from a old switch case and DIY to make it work, but then i wanted to give it a professional look so i added a 16x02 LCD on the front panel with a encoder knob to navigate trough the menus of a Arduino Mega.
 
